@@ -15,5 +15,5 @@ while True:
         time.sleep(5)
     else:
         os.system('clear')
-        print('waiting for yu to print a button')
+        print('Press a button!')
 time.sleep(1)
