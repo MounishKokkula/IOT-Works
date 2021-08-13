@@ -1,3 +1,3 @@
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/MounishKokkula/IOT-Works)
+This folder contains the IoT projects started as class work.
 
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/MounishKokkula/IOT-Works" alt="Hits">
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FMounishKokkula%2FIOT-Works)
